@@ -4,8 +4,8 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Reiner Ihotu Adakole-Okopi
+  role: Junior, Computer and Information Science Major at Edward Waters University
   image: /assets/images/me.jpg
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
