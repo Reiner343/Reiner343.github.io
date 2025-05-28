@@ -3,7 +3,7 @@ layout: home
 title: Reiner Ihotu Adakole-Okopi
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "curiosity, and creativity to shape tomorrow."
+motto: "Life has no limitations except the ones you make."
 
 quick_facts:
   - "🎓 Junior, Computer and Information Science @ Edward Waters University"
