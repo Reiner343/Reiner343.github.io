@@ -30,7 +30,7 @@ Welcome! This repository hosts your personal research site built on Jekyll + Min
 Open `_config.yml` and set:
 
 ```yaml
-title: "YOUR NAME"  
+title: "REINER IHOTU ADAKOLE-OKOPI"  
 description: "CEAMLS SAIRI Summer 2025 Research Site"  
 remote_theme: pages-themes/minimal@v0.2.0  
 plugins:
