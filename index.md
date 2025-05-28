@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Reiner Ihotu Adakole-Okopi
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "curiosity, and creativity to shape tomorrow."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Junior, Computer and Information Science @ Edward Waters University"
+  - "🔬 Research: Smart Water Contamination Detection Using AI Model"
+  - "📍 Based in Jacksonville, FL"
+  - "🚀 Passionate about building AI products for social good especialliy in underserved communities"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/reineradakole-okopi/
 image: /assets/images/me.jpg
 ---
