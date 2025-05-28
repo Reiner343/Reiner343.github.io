@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building AI products for social good especialliy in underserved communities"
 
 linkedin: https://www.linkedin.com/in/reineradakole-okopi/
-image: /assets/images/me.jpg
+image: /assets/images/Headshot-Reiner.jpg
 ---
