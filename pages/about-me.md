@@ -6,14 +6,14 @@ permalink: /about-me.html
 about:
   name: Reiner Ihotu Adakole-Okopi
   role: Junior, Computer and Information Science Major at Edward Waters University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  image: /assets/images/Headshot-Reiner.jpg
+  linkedin: https://www.linkedin.com/in/reineradakole-okopi/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a rising junior studying Computer and Information at Edward Waters University in Jacksonville, Florida. I expect to graduate in 2027.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work explores the understanding of the science behind water contamination as well as applying AI techniques to design and prototype a smart detection system to curb it. 
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy traveling, listening to music, online shopping, trying out fine dining restauarnts and hanging out with my friends in my free time.
 
   hobbies:
     - icon: 🎺
