@@ -9,18 +9,18 @@ graduate_mentor:
   image: /assets/images/graduate-mentor.png
   website: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
   bio: |
-    Olorunfunmi Shobowale is a Masters student in Advanced Computing, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Olorunfunmi Shobowale is a Masters student in Advanced Computing. He has worked on different research projects which includes supervision of half-adder lab experiments to determine logic/circuit connection against computer science undergraduate students of morgan state university. He also participated in a lab experiment aimed at enhancing students' motivation and enhanced learning using TDS-Sensor, pH-sensor ad Arduino Uno to test scientific samples.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Beyond the lab, Olorunfunmi has participated in international confeences and worked on many paper publications and presentations.  
 
 faculty_mentor:
   name: Dr. Steve Efe
-  title: Professor Emeritus, Tuskegee University
+  title: Associate Professor, Civil Engineering
   image: /assets/images/faculty mentor.png
-  website: https://facultymentor.example.com
+  website: https://www.linkedin.com/in/drsteveefe/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Steve Efe is a a civil engineering professor and AI-certified scientist with over 15 years of experience in research, teaching, and infrastructure innovation. His expertise spans smart infrastructure design, transportation systems, and sustainable urban development, with a focus on applying AI, machine learning, and advanced materials to enhance the resilience and longevity of infrastructure systems. His current work includes pioneering efforts to develop hybrid biomimetic adhesives for aging infrastructures and implementing AI-driven strategies to optimize infrastructure sustainability.
+
+    Beyond research, Dr. Steve is deeply committed to mentoring the next generation of engineers. He has created inclusive mentoring programs for underrepresented students, guiding them to excel in STEM disciplines and pursue leadership roles in engineering and technology. He also collaborate with industry leaders and academic institutions to design forward-thinking engineering curricula that integrate emerging technologies and real-world problem-solving.
 
 ---
