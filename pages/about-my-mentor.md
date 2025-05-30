@@ -5,11 +5,11 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Olorunfunmi Shobowale
-  title: PhD Student, Electrical Engineering
+  title: MS Student, Advanced Computing
   image: /assets/images/graduate-mentor.png
-  website: https://gradmentor.example.com
+  website: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Olorunfunmi Shobowale is a Masters student in Advanced Computing, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
     
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
