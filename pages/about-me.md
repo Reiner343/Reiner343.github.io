@@ -16,16 +16,16 @@ about:
     When I’m not working on research, I enjoy traveling, listening to music, online shopping, trying out fine dining restauarnts and hanging out with my friends in my free time.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
-
+    - icon: 💃
+      title: Dancing
+      description: I’ve been dancing since I was young, I really enjoy dancing specifically afrodance. 
+    - icon: 🛍️
+      title: Shopping
+      description: I enjoy online shopping  and also in-store shopping sometimes.
+    - icon: 🛌
+      title: Sleeping
+      description: I really love sleeping in my free time. It is really relaxing and refreshing. 
+      
   gallery:
     - image: /assets/images/me-guitar.png
       caption: Playing guitar at the park!
