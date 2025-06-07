@@ -27,12 +27,12 @@ about:
       description: I really love sleeping in my free time. It is really relaxing and refreshing. 
       
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/new_york.jpg
+      caption: A picture of me at Times Square, New York!
+    - image: /assets/images/museum_me.jpg
+      caption: Picture of me at the museum 
+    - image: /assets/images/me-shop.jpg
+      caption: Shopping at the mall :)
+    - image: /assets/images/gallery_me.jpg
+      caption: A picture of me at the museum in San Fransisco, CA.
 ---
